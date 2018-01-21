@@ -4,4 +4,6 @@ import App from './components/App';
 
 const header = 'Init aplikacji strzemin';
 
-render(<App name={header} />, document.getElementById('root'));
+render(<App name={header} />, document.getElementById('root'));" +
+		"
+//a jak

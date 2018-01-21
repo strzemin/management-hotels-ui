@@ -3,3 +3,8 @@ node_modules/
 *.DS_Store
 dist/bundle.js
 coverage
+/target/
+/.settings/
+.project
+.classpath
+
